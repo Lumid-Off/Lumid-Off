@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Lumid 👋
 
-<!--
-**Lumid-Off/Lumid-Off** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer from Ukraine 🇺🇦
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+<img align="right" src="https://media1.tenor.com/m/af9lA2WnxXQAAAAC/ryo-yamada.gif" width="180" alt="Ryo Yamada" />
+
+**Frontend**
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+**Backend**
+
+![Python](https://skillicons.dev/icons?i=py)
+
+**A bit of**
+
+![Swift](https://skillicons.dev/icons?i=swift)
+
+<br clear="right" />
+
+---
+
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| 📱 **LumiPhones** | Telegram bot |
+
+---
+
+## 🎯 Interests & Hobbies
+
+- 🖥️ Hackintosh enjoyer
+- 🚀 Always open to new ideas
